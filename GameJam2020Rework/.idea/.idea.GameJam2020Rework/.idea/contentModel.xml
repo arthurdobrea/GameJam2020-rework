@@ -41,7 +41,7 @@
           </e>
         </e>
         <e p="CustomPlayerController.cs" t="Include" />
-        <e p="NewBehaviourScript.cs" t="Include" />
+        <e p="MovementPlayer.cs" t="Include" />
         <e p="Sci Fi Modular Pack" t="Include">
           <e p="Scripts" t="Include">
             <e p="CameraController.cs" t="Include" />
